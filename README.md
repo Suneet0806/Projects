@@ -90,4 +90,4 @@ The code is a "Monolith" (Single File Component):
 * **JS:** Located in `<script>`, handles the Canvas drawing, physics loop, game logic, and DOM manipulation.
 
 ---
-*Created for the Orbital Arc Project.*
+
